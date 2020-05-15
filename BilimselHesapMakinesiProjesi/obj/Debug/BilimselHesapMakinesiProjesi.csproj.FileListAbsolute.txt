@@ -1,0 +1,11 @@
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\bin\Debug\BilimselHesapMakinesiProjesi.exe.config
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\bin\Debug\BilimselHesapMakinesiProjesi.exe
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\bin\Debug\BilimselHesapMakinesiProjesi.pdb
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.csprojAssemblyReference.cache
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.Form1.resources
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.Properties.Resources.resources
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.csproj.GenerateResource.cache
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.exe
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.pdb
+C:\Users\sukra\source\repos\BilimselHesapMakinesiProjesi\BilimselHesapMakinesiProjesi\obj\Debug\BilimselHesapMakinesiProjesi.Gecmis.resources
